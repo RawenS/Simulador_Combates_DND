@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Rodolfa",
+    "max_hp": 12,
+    "current_hp": 12,
+    "armor_class": 15,
+    "initiative_mod": 2,
+    "is_alive": true,
+    "strength": 10,
+    "dexterity": 15,
+    "constitution": 7,
+    "intelligence": 7,
+    "wisdom": 10,
+    "charisma": 10,
+    "level": 1,
+    "proficiency_bonus": 2,
+    "experience": 0,
+    "weapon": {
+      "name": "Big Sword",
+      "type": "melee",
+      "damage_dice": "2d8",
+      "finesse": false
+    },
+    "spells": [],
+    "abilities": [],
+    "spell_slots": {}
+  },
+  {
+    "name": "Manolo",
+    "max_hp": 35,
+    "current_hp": 35,
+    "armor_class": 19,
+    "initiative_mod": 2,
+    "is_alive": true,
+    "strength": 20,
+    "dexterity": 15,
+    "constitution": 14,
+    "intelligence": 10,
+    "wisdom": 16,
+    "charisma": 14,
+    "level": 4,
+    "proficiency_bonus": 2,
+    "experience": 0,
+    "weapon": {
+      "name": "Lalala",
+      "type": "ranged",
+      "damage_dice": "2d8",
+      "finesse": false
+    },
+    "spells": [],
+    "abilities": [],
+    "spell_slots": {}
+  }
+]

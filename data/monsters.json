@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Goblin",
+    "max_hp": 15,
+    "current_hp": 15,
+    "armor_class": 10,
+    "initiative_mod": 1,
+    "is_alive": true,
+    "attack_bonus": 2,
+    "damage_dice": "1d6",
+    "damage_bonus": 1,
+    "challenge_rating": 0.0,
+    "experience_reward": 15,
+    "abilities": []
+  }
+]

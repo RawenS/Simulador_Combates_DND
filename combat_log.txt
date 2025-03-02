@@ -1,0 +1,56 @@
+[2025-03-02 00:36:35] Personaje añadido: Rodolfa
+[2025-03-02 00:36:43] Monstruo añadido: Goblin
+[2025-03-02 00:36:43] Combate iniciado
+[2025-03-02 00:36:43] Rodolfa tira iniciativa: 16 + 2 = 18
+[2025-03-02 00:36:43] Goblin tira iniciativa: 20 + 1 = 21
+[2025-03-02 00:36:43] Ronda 1 iniciada, iniciativa tirada
+[2025-03-02 00:36:56] Goblin ataca a Rodolfa - Tirada: 11 + 2 = 13 vs CA 15 - ¡FALLO!
+[2025-03-02 00:36:59] Turno de Rodolfa
+[2025-03-02 00:37:25] Rodolfa ataca a Goblin con Big Sword - Tirada: 6 + 2 = 8 vs CA 10 - ¡FALLO!
+[2025-03-02 00:37:28] Ronda 2 iniciada
+[2025-03-02 00:37:28] Turno de Goblin
+[2025-03-02 00:37:32] Goblin ataca a Rodolfa - Tirada: 18 + 2 = 20 vs CA 15 - ¡IMPACTO! Daño: 4 (4) + 1 = 5
+Rodolfa recibe 1 de daño! HP: 11/12
+[2025-03-02 00:37:36] Turno de Rodolfa
+[2025-03-02 00:37:41] Ronda 3 iniciada
+[2025-03-02 00:37:41] Turno de Goblin
+[2025-03-02 00:37:42] Goblin ataca a Rodolfa - Tirada: 20 + 2 = 22 vs CA 15 - ¡CRÍTICO! Daño: 4 (4) + 1 = 10
+Rodolfa recibe 1 de daño! HP: 5/12
+[2025-03-02 00:37:43] Ronda 4 iniciada
+[2025-03-02 00:37:43] Turno de Goblin
+[2025-03-02 00:37:44] Combate terminado - Todos los personajes han sido derrotados
+[2025-03-02 00:48:36] Personaje añadido: Manolo
+[2025-03-02 00:48:36] Personaje añadido: Rodolfa
+[2025-03-02 00:48:42] Monstruo añadido: Goblin 1
+[2025-03-02 00:48:42] Monstruo añadido: Goblin 2
+[2025-03-02 00:48:42] Combate iniciado
+[2025-03-02 00:48:42] Manolo tira iniciativa: 16 + 2 = 18
+[2025-03-02 00:48:42] Rodolfa tira iniciativa: 1 + 2 = 3
+[2025-03-02 00:48:42] Goblin 1 tira iniciativa: 4 + 1 = 5
+[2025-03-02 00:48:42] Goblin 2 tira iniciativa: 20 + 1 = 21
+[2025-03-02 00:48:42] Ronda 1 iniciada, iniciativa tirada
+[2025-03-02 00:49:21] Goblin 2 ataca a Manolo - Tirada: 20 + 2 = 22 vs CA 19 - ¡CRÍTICO! Daño: 1 (1) + 1 = 4
+Manolo recibe 1 de daño! HP: 34/35
+[2025-03-02 00:49:32] Turno de Manolo
+[2025-03-02 00:50:23] Manolo ataca a Goblin 2 con Lalala - Tirada: 10 + 4 = 14 vs CA 10 - ¡IMPACTO! Daño: 5+2 (7) + 2 = 9
+Goblin 2 recibe 2 de daño! HP: 13/15
+[2025-03-02 00:50:33] Turno de Goblin 1
+[2025-03-02 00:50:37] Goblin 1 ataca a Manolo - Tirada: 9 + 2 = 11 vs CA 19 - ¡FALLO!
+[2025-03-02 00:50:38] Turno de Rodolfa
+[2025-03-02 00:51:07] Ronda 2 iniciada
+[2025-03-02 00:51:07] Turno de Goblin 2
+[2025-03-02 00:51:10] Goblin 2 ataca a Manolo - Tirada: 13 + 2 = 15 vs CA 19 - ¡FALLO!
+[2025-03-02 00:51:12] Turno de Manolo
+[2025-03-02 00:51:42] Manolo ataca a Goblin 2 con Lalala - Tirada: 20 + 4 = 24 vs CA 10 - ¡CRÍTICO! Daño: 1+5 (6) + 2 = 14
+Goblin 2 recibe 2 de daño! HP: 2/15
+[2025-03-02 00:51:45] Turno de Goblin 1
+[2025-03-02 00:51:46] Goblin 1 ataca a Rodolfa - Tirada: 5 + 2 = 7 vs CA 15 - ¡FALLO!
+[2025-03-02 00:51:47] Turno de Rodolfa
+[2025-03-02 00:52:06] Rodolfa ataca a Goblin 1 con Big Sword - Tirada: 20 + 2 = 22 vs CA 10 - ¡CRÍTICO! Daño: 3+1 (4) + 0 = 8
+Goblin 1 recibe 0 de daño! HP: 15/15
+[2025-03-02 00:52:37] Ronda 3 iniciada
+[2025-03-02 00:52:37] Turno de Manolo
+[2025-03-02 00:53:06] Manolo ataca a Goblin 1 con Lalala - Tirada: 20 + 4 = 24 vs CA 10 - ¡CRÍTICO! Daño: 4+6 (10) + 2 = 22
+Goblin 1 recibe 2 de daño! HP: 5/15
+[2025-03-02 00:53:07] Turno de Rodolfa
+[2025-03-02 00:53:07] Combate terminado - Todos los monstruos han sido derrotados
